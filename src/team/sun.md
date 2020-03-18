@@ -1,4 +1,0 @@
----
-title: Sun
-bio: Yep
----
